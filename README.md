@@ -13,7 +13,7 @@ The automation framework is built using Java and Selenium WebDriver. It interact
     * Test Cases: Various test cases have been developed to validate the functionality of the web application, including button functionality, measurement accuracy, bowl filling conditions, and bottom gold bar interactions.
 
 
-![Image](SeleniumControlWebsite/SeleniumControlWebsite.png?raw=true "SeleniumControlWebsite.png")
+![Image](TestCasesScreenshots/SeleniumControlWebsite.png?raw=true "SeleniumControlWebsite.png")
 
 
 # Usage:
